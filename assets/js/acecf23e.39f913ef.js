@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshopprop_site_docs=self.webpackChunkshopprop_site_docs||[]).push([[903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/shopprop_site_docs/blog","blogTitle":"Blog","authorsListPath":"/shopprop_site_docs/blog/authors"}')}}]);
