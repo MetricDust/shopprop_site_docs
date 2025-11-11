@@ -4,9 +4,9 @@ title: ShopProp SEO
 sidebar_label: SEO
 ---
 
-# SEO Content Here
+# ShopProp SEO Documentation
 
----# ShopProp SEO Documentation
+
 
 The below report presents the efforts taken to enhance and grow the online presence of **ShopProp Realty**.  
 We undertook the task to further boost your online presence through a mix of **SEO** and **social media strategy**.  
