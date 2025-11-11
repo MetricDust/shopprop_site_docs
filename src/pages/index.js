@@ -25,7 +25,7 @@ export default function Home() {
           to="/intro"
           style={{ margin: "2rem" }}
         >
-          Explore Docs & Docs
+          Explore Docs
         </Link>
 
         {/* Feature Section */}

@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "Releases",
+      label: "General Docs",
       collapsed: false,
       items: ["seo"],
     },

@@ -93,25 +93,6 @@ const config = {
               },
             ],
           },
-         {
-      title: "Experience Our App",
-      items: [
-        {
-          html: `
-            <div style="display: flex; flex-direction: column; align-items: flex-start;">
-              <div style="display: flex; gap: 0.5rem;">
-                <a href="https://play.google.com/store/apps/details?id=com.shopprop.property.mobile" target="_blank" rel="noopener noreferrer">
-                  <img src="img/google-play.jpg" alt="Google Play" style="height: 36px; border-radius: 4px;" />
-                </a>
-                <a href="https://apps.apple.com/us/app/shopprop/id1569131794" target="_blank" rel="noopener noreferrer">
-                  <img src="img/app-store.jpg" alt="App Store" style="height: 36px; border-radius: 4px;" />
-                </a>
-              </div>
-            </div>
-          `,
-        },
-      ],
-    },
         ],
         copyright: `© ${new Date().getFullYear()} ShopProp by MetricDust. All rights reserved.`,
       },
