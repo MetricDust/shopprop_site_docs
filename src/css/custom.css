@@ -1,0 +1,39 @@
+:root {
+  /* Primary color palette */
+  --ifm-color-primary: rgb(0, 87, 150);
+  --ifm-color-primary-dark: rgb(0, 78, 135);
+  --ifm-color-primary-darker: rgb(0, 70, 122);
+  --ifm-color-primary-darkest: rgb(0, 60, 105);
+  --ifm-color-primary-light: rgb(10, 100, 160);
+  --ifm-color-primary-lighter: rgb(30, 120, 175);
+  --ifm-color-primary-lightest: rgb(50, 140, 190);
+
+  /* Optional: Use secondary and blur shades in your custom components */
+  --color-secondary: rgb(123, 174, 217);
+  --color-blur-dark: rgb(167, 211, 253);
+  --color-blur-light: rgb(238, 245, 255);
+
+  /* Code font size and highlight line background */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --version-box-bg: rgba(0, 0, 0, 0.03); /* subtle gray for light mode */
+}
+
+[data-theme="dark"] {
+  --ifm-color-primary: rgb(123, 174, 217);
+  --ifm-color-primary-dark: rgb(100, 150, 190);
+  --ifm-color-primary-darker: rgb(90, 135, 175);
+  --ifm-color-primary-darkest: rgb(70, 110, 150);
+  --ifm-color-primary-light: rgb(140, 190, 230);
+  --ifm-color-primary-lighter: rgb(160, 200, 240);
+  --ifm-color-primary-lightest: rgb(180, 210, 245);
+
+  --color-secondary: rgb(0, 87, 150);
+  --color-blur-dark: rgb(167, 211, 253);
+  --color-blur-light: rgb(238, 245, 255);
+
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+
+  --version-box-bg: rgba(255, 255, 255, 0.06); /* light overlay in dark mode */
+}
