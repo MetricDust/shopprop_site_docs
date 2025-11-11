@@ -47,15 +47,10 @@ This documentation includes:
 
 ---
 
-<!-- ## 🔗 Useful Links
+## 🔗 Useful Links
 
 - 🌐 [ShopProp Website](https://www.shopprop.com)
-- 📲 [Download App](https://www.shopprop.com)
 
---- -->
+---
 
-## 📌 Next Steps
-
-Head over to the latest release [v1.0 – First Public Release](../v1.0) to explore everything available in the current version of the ShopProp mobile app.
-
-Or navigate via the sidebar ➡️
+Navigate via the sidebar ➡️
