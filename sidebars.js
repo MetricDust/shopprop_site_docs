@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 module.exports = {
-  changelogSidebar: [
+  docsSidebar: [
     {
       type: "doc",
       id: "intro",

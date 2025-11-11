@@ -1,8 +1,8 @@
 // @ts-check
-// Docusaurus configuration for ShopProp Changelog
+// Docusaurus configuration for ShopProp Docs
 
 const config = {
-  title: "ShopProp Changelog",
+  title: "ShopProp Docs",
   tagline: "Track all feature releases and updates",
   url: "https://metricdust.github.io", // GitHub Pages root URL
   baseUrl: "/shopprop_site_docs/", // Repo name (as served in GitHub Pages)
@@ -61,9 +61,9 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "changelogSidebar", // ✅ Ensure this ID exists in sidebars.js
+            sidebarId: "docsSidebar", // ✅ Ensure this ID exists in sidebars.js
             position: "left",
-            label: "Changelog",
+            label: "Docs",
           },
           {
             href: "https://www.shopprop.com",
@@ -79,7 +79,7 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "View Changelog",
+                label: "View Docs",
                 to: "/intro", // ✅ Avoid broken / link
               },
             ],

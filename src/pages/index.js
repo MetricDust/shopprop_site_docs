@@ -5,7 +5,7 @@ import Link from "@docusaurus/Link";
 export default function Home() {
   return (
     <Layout
-      title="ShopProp app Changelog"
+      title="ShopProp app Docs"
       description="Find all updates and feature releases for the ShopProp mobile application."
     >
       <main style={{ padding: "2rem 2rem", textAlign: "center" }}>
@@ -25,7 +25,7 @@ export default function Home() {
           to="/intro"
           style={{ margin: "2rem" }}
         >
-          Explore Docs & Changelog
+          Explore Docs & Docs
         </Link>
 
         {/* Feature Section */}

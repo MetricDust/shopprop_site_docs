@@ -36,8 +36,8 @@ This documentation includes:
 - ✅ **Feature Releases & Changelogs**  
   View version-specific updates and improvements.
 
-- 📱 **App Walkthroughs**  
-  Learn how to use different sections of the ShopProp mobile app.
+- 📱 **Site Walkthroughs and Documentation**  
+  Learn how to use different sections of the ShopProp website.
 
 - 🧠 **Q&A and Ticket System**  
   Understand how to create and manage property-related requests.
